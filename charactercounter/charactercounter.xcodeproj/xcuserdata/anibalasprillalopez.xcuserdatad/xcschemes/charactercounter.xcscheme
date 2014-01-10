@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E60A9EB5187F9038002C8EE4"
+               BlueprintIdentifier = "E60A9EF6187FA7ED002C8EE4"
                BuildableName = "charactercounter.app"
                BlueprintName = "charactercounter"
                ReferencedContainer = "container:charactercounter.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E60A9ED6187F9038002C8EE4"
+               BlueprintIdentifier = "E60A9F17187FA7ED002C8EE4"
                BuildableName = "charactercounterTests.xctest"
                BlueprintName = "charactercounterTests"
                ReferencedContainer = "container:charactercounter.xcodeproj">
@@ -42,7 +42,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E60A9EB5187F9038002C8EE4"
+            BlueprintIdentifier = "E60A9EF6187FA7ED002C8EE4"
             BuildableName = "charactercounter.app"
             BlueprintName = "charactercounter"
             ReferencedContainer = "container:charactercounter.xcodeproj">
@@ -61,7 +61,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E60A9EB5187F9038002C8EE4"
+            BlueprintIdentifier = "E60A9EF6187FA7ED002C8EE4"
             BuildableName = "charactercounter.app"
             BlueprintName = "charactercounter"
             ReferencedContainer = "container:charactercounter.xcodeproj">
@@ -79,7 +79,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E60A9EB5187F9038002C8EE4"
+            BlueprintIdentifier = "E60A9EF6187FA7ED002C8EE4"
             BuildableName = "charactercounter.app"
             BlueprintName = "charactercounter"
             ReferencedContainer = "container:charactercounter.xcodeproj">
