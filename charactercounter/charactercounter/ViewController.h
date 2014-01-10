@@ -1,0 +1,13 @@
+//
+//  ViewController.h
+//  charactercounter
+//
+//  Created by ANIBAL ASPRILLA LOPEZ on 01/09/14.
+//  Copyright (c) 2014 Sergio Daniel Lozano Garcia. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface ViewController : UIViewController
+
+@end
